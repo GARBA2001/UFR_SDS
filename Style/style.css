@@ -1,0 +1,72 @@
+.body{
+    background-image: url(../Image/back.jpg);
+    background-size: cover;
+    height: 500px !important;
+}
+.img{
+    height: 500px !important;
+    width: 100% !important;
+} 
+.garb{
+    background-color: #5AC7C2;
+    height: 500px;
+    width: 100%;
+    border-top: #F5C725 5px solid !important;
+}
+.gt{
+    background-color: #5AC7C2;
+    border-top: #F5C725 5px solid !important;
+}
+.bt{
+    border-radius: 50px !important;
+    background-color: whitesmoke !important;
+    color: black !important;
+    border-color: #F5C725 !important;
+}
+
+.bg{
+    background-color: #0E1434 !important;
+    height: 75px;
+    margin-left: 112px;
+    margin-right: 112px;
+}
+.navbar-nav a{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: white !important;
+ }
+.nb{
+    background-color: #0E1434;
+    color: white;
+    height: 75px;
+    padding-top: 35px;
+}
+
+.gb{
+    color: #F5C725 !important;
+    font-style: bold !important;
+    background-color: white !important;
+    word-spacing: 10%;
+    width: 200px;
+}
+    .c100{
+        width: 100%;
+    }
+    label{
+        display: inline-block;
+        min-width: 25%;
+    }
+    input[type="submit"]{
+        color: #F5C725;
+        border-radius: 5px;
+        padding: 5px 10px;
+        font-size: 14px;
+        border: 2px solid #F5C725;
+    }
+    input[type="submit"]:hover{
+        background-color: #F5C725;
+        color: #fff;
+        cursor: pointer;
+        box-shadow: 0px 0px 5px 0px #777;
+    }
